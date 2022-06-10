@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by Yiyun Qin
-# Created in May 2022
+# Created in June 2022
 # This is the math program, translating a string to hex
 
 
